@@ -129,4 +129,9 @@ dmypy.json
 .pyre/
 
 # Python generated files
-*.idea 
+*.idea
+
+# Course requesteg ignores
+*.in
+*.out
+*.pyc
