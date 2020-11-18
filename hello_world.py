@@ -1,5 +1,2 @@
-def main():
-    print('Hello World!')
+print("Hello world!")
 
-
-main()
